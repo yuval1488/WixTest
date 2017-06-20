@@ -1,5 +1,2 @@
 Yuval Shavit
 aaa
-bbb
-ccc
-ddd
